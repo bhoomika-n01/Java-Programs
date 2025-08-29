@@ -4,7 +4,7 @@ public class CheckArmstrongNumber {
 
 	public static void main(String[] args) {
 		
-		int num = 153;
+		int num = 1532;
 		int original = num;
 		int arms = 0;
 		
